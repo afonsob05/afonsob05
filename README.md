@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi there, I'm [Afonso ](https://github.com/afonsob05)👋
+
+**`Bsc in Computer Science`**
+
+CS 2nd Year @ Instituto Superior Técnico, Portugal .
+
+## Language Proficiencies
+<p align='left'>
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</p>
+
+## Main Editors Used
+<p align='left'>
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+</p>
+
+#
+
+## GitHub Stats
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afonsob05&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=40B883&text_color=FFFEFE&title_color=40B883#gh-dark-mode-only)](https://github.com/afonsob05/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afonsob05&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/afonsob05/github-readme-stats#gh-light-mode-only)
+#
+
 
 <!--
 **afonsob05/afonsob05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
