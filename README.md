@@ -1,4 +1,4 @@
-# Hi there, I'm [Afonso](https://github.com/afonsob05)! 👋
+lt# Hi there, I'm [Afonso](https://github.com/afonsob05)! 👋
 
 **`Bsc in Computer Science`**
 
@@ -28,8 +28,8 @@ CS 2nd Year @ Instituto Superior Técnico, Portugal .
 #
 
 ## GitHub Stats
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afonsob05&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=40B883&text_color=FFFEFE&title_color=40B883#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afonsob05&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afonsob05&show&hide_border=true&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afonsob05&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 #
 
 
