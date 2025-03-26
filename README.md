@@ -16,15 +16,15 @@ CS 2nd Year @ Instituto Superior Técnico, Portugal .
 
 ## Main Editors Used
 <p align='left'>
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 </p>
 
 #
 
 ## GitHub Stats
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afonsob05&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=40B883&text_color=FFFEFE&title_color=40B883#gh-dark-mode-only)](https://github.com/afonsob05/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afonsob05&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/afonsob05/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afonsob05&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=40B883&text_color=FFFEFE&title_color=40B883#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afonsob05&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 #
 
 
