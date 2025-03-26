@@ -1,4 +1,4 @@
-lt# Hi there, I'm [Afonso](https://github.com/afonsob05)! 👋
+# Hi there, I'm [Afonso](https://github.com/afonsob05)! 👋
 
 **`Bsc in Computer Science`**
 
