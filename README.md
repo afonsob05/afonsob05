@@ -4,7 +4,10 @@
 
 CS 2nd Year @ Instituto Superior Técnico, Portugal .
 
-## Language Proficiencies
+##
+## About Me
+
+### Language Proficiencies
 <p align='left'>
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -15,7 +18,7 @@ CS 2nd Year @ Instituto Superior Técnico, Portugal .
           
 </p>
 
-## Main Editors Used
+### Main Editors Used
 <p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
