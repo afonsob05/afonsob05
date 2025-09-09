@@ -2,7 +2,7 @@
 
 **`Bsc in Computer Science`**
 
-CS 2nd Year @ Instituto Superior Técnico, Portugal .
+CS 3rd Year @ Instituto Superior Técnico, Portugal .
 
 ##
 ## About Me
