@@ -18,12 +18,12 @@ Not currently on any project, but somewhere in time I'll try and refine some of 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
 </p>
 
-### Coding Editor ### Some Softwares know the ropes of :)
+### Coding Editor
 <p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
-#### Some Softwares know the ropes of :)
+#### Some Softwares I know the ropes of
 <p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
