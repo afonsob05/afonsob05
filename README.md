@@ -1,11 +1,13 @@
 # Hi there, I'm [Afonso](https://github.com/afonsob05)! 👋
 
-**`Bsc in Computer Science`**
-
-CS 3rd Year @ Instituto Superior Técnico, Portugal .
+**`Bsc in Computer Science, 3rd Year`**
 
 ##
 ## About Me
+I'm a Computer Science and Software Engineering student at Instituto Superior Tecnico - Taguspark, located in Portugal! 🇵🇹
+I have been interested in videogames and general tech since a young age, but my coding journey only began some years later, towards the end of highschool. 
+Since entering college, the tech world has unveiled a lot of challenges I have yet to overcome, but I'm always up for learning new things!!
+Not currently on any project, but somewhere in time I'll try and refine some of the previous projects I've been evaluated on.
 
 ### Language Proficiencies
 <p align='left'>
@@ -17,7 +19,7 @@ CS 3rd Year @ Instituto Superior Técnico, Portugal .
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
 </p>
 
-### Main Editor + Softwares I use
+### Main Editor + Some Softwares know the ropes of :)
 <p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
