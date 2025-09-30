@@ -21,16 +21,15 @@ Not currently on any project, but somewhere in time I'll try and refine some of 
 ### Coding Editor ### Some Softwares know the ropes of :)
 <p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
 </p>
 
 #### Some Softwares know the ropes of :)
+<p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-               
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />          
 </p>
 
 #
