@@ -5,9 +5,13 @@
 ##
 ## About Me
 I'm a Computer Science and Software Engineering student at Instituto Superior Tecnico - Taguspark, located in Portugal! 🇵🇹
-I have been interested in videogames and general tech since a young age, but my coding journey only began some years later, towards the end of highschool. 
+</p>
+I have been interested in videogames and general tech since a young age, but my coding journey only began some years later, towards the end of highschool.
+</p>
 Since entering college, the tech world has unveiled a lot of challenges I have yet to overcome, but I'm always up for learning new things!!
+</p>
 Not currently on any project, but somewhere in time I'll try and refine some of the previous projects I've been evaluated on.
+</p>
 
 ### Language Proficiencies
 <p align='left'>
