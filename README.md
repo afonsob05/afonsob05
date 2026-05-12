@@ -10,7 +10,11 @@ I have been interested in videogames and tech since a young age, but my coding j
 </p>
 Since entering college, the tech world has unveiled a lot of challenges I have yet to overcome, but I'm always up for learning new things!!
 </p>
-Currently working on PokéRogue for the my Bachelor's final project!
+Currently working on PokéRogue for my Bachelor's final project!
+
+You can contact me through:
+-  [My linkedIn](https://www.linkedin.com/in/afonsob05/);
+- Through Discord (send a Friend Request to @afonsob05)!
 </p>
 
 ### Language Proficiencies
