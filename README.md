@@ -10,15 +10,17 @@ I have been interested in videogames and tech since a young age, but my coding j
 </p>
 Since entering college, the tech world has unveiled a lot of challenges I have yet to overcome, but I'm always up for learning new things!!
 </p>
-Not currently on any project, but somewhere in time I'll try and refine some of the previous projects I've been evaluated on.
+Currently working on PokéRogue for the my Bachelor's final project!
 </p>
 
 ### Language Proficiencies
 <p align='left'>
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
 </p>
 
@@ -27,12 +29,15 @@ Not currently on any project, but somewhere in time I'll try and refine some of 
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
-#### Some Softwares I know the ropes of
+### Current Operative System for Work(changes every now and then)
+<p align='left'>
+<img width="40px" height="40px" src="https://github.com/user-attachments/assets/7d7f6756-a90e-406e-a169-3d35eaa602ca" />
+</p>
+
+#### Pieces of software I use/know how to :)
 <p align='left'>
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />          
 </p>
 
